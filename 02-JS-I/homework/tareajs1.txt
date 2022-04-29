@@ -1,0 +1,11 @@
+Conceptos
+
+1. Variables: en un elemento donde podemos guardar el valor del mismo y que puede ir cambiando durante el curso de la aplicacion.
+
+2. Strings: es un tipo de dato, porciones de codigo que son definidas entre comillas.
+
+3. Funciones: bloque de codigo que realiza una determinada accion.
+
+4. Declaraciones: sirven para determinar el nombre y el tipo de datos de una variable.
+
+5. Valores Booleanos: son variables que solamente pueden devolver dos posibles respuestas , true o false, 0 o 1
