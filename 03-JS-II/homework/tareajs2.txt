@@ -1,0 +1,7 @@
+Definiciones 
+
+1- For: es una extructura donde se repiten el numero de veces que le decimos que se repita un bloque de instrucciones, se utiliza con un numero.
+
+2. || : OR es un operador logico comunmente equivalente a " o "  , generalmente se utilizan con valores booleanos.
+
+3.  ! : NOT es tambien un operador logico y se utiliza para negar la expresion.
